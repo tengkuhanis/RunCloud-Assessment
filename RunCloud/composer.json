@@ -1,0 +1,19 @@
+{
+    "name": "user/composer",
+    "authors": [
+        {
+            "name": "Tengku Hanis",
+            "email": "73523500+tengkuhanis@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "friendsofphp/php-cs-fixer": "^2.18"
+    }
+}
+{
+    "autoload": {
+        "psr-4": {
+            "Mainfile\\": "src/",
+         }
+    }
+}
