@@ -1,2 +1,2 @@
 # RunCloud-Assessment
-Assesment for applying intership at RunCloud
+Assesment for applying internship at RunCloud
